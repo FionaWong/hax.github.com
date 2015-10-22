@@ -3,8 +3,7 @@ class: middle, center
 # ES6 实战
 
 .fit[
-  ES6实战 - 内部分享<br>
-  
+  ES6实战 - 内部分享
 ]
 
 ---
