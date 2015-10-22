@@ -3,8 +3,8 @@ class: middle, center
 # ES6 实战
 
 .fit[
-  贺师俊 - @hax<br>
-  百姓网 - baixing.com
+  ES6实战 - 内部分享<br>
+  
 ]
 
 ---
@@ -12,7 +12,7 @@ class: middle, center
 ## ES6 进展
 --
 
- - 2个月后正式发布！
+ - 今年6月份已发布
 --
 
  - 浏览器已经支持[许多 ES6 特性](http://kangax.github.io/compat-table/es6/)
@@ -164,24 +164,7 @@ export class Welcome{
 
 ---
 
-## 工欲善其事 必先利其器
---
 
- * 编译器
---
-
-
- * 自动构建
---
-
-
- * 代码质量工具
---
-
-
- * 编辑器/IDE
-
----
 
 ## 特性总结
 
